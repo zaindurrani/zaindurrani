@@ -1,7 +1,7 @@
 # 💫 About Me:
 currently working on networking project as well as server relevant project,<br>along with it, learning Django web framework and python
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zaindurrani178) 
 
