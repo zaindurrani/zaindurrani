@@ -1,4 +1,4 @@
-﻿# 💫 About Me:
+# 💫 About Me:
 currently working on networking project as well as server relevant project,<br>along with it, learning Django web framework and python
 
 
@@ -14,5 +14,3 @@ currently working on networking project as well as server relevant project,<br>a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zaindurrani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
