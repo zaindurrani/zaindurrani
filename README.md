@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on networking project as well as server relevant project,<br>along with it, learning Django web framework and python
+Learning Data science, database engineering
 
  
 ## 🌐 Socials:
