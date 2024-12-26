@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS student Learning Data science, database engineering
+CS student Learning Backend, database engineering from Meta(Coursera) along with AWS from Coursera
 
  
 # 💻 Tech Stack:
